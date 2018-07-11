@@ -1,7 +1,7 @@
 # IS Project 1
 Assignmet 2
 Required: 
-roject Management Plan (PMP) & Software Requirement Specification (SRS) Reports
+Project Management Plan (PMP) & Software Requirement Specification (SRS) Reports
 
 Outcome:
 Demonstrate an understanding of the roles and responsibilities of software

@@ -1,0 +1,18 @@
+Assessment 2 of this unit requires you to write an SDD. This document should be at a detailed design
+level. This means, all the major components of the system should be designed with a satisfactory level
+of granularity such that if your SDD is given to a programmer to implement, it should be easily
+implementable. In addition, the design should match the requirements specified during the
+Requirement Analysis activity (see Section 2.1.2 Requirements Analysis in your A1 document). That is,
+each design component should be indexed and should traceable to a requirement specification in
+Section 2.1.2. You may use a matrix to manage this. Specifically, designs are required for: business
+component identification, the front design end, process & workflow design, database design and
+security concerns in design. You should use the Model View Controller (MVC) framework for the
+server-side components of the process design.
+
+
+1) Demonstrate skills in project planning and management, problem solving,
+analysis, and evaluation.
+
+2) Demonstrate skills in software design, development, implementation,
+testing, and documentation of an authentic industry type project, that is, a less
+well-structured or messy problem, requiring demonstration of high level skills.
